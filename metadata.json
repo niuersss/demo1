@@ -1,0 +1,6 @@
+{
+  "name": "小猫咪到家",
+  "description": "暖萌健康的小猫咪预约配送与信息发布平台，支持发布猫咪信息、预约到家服务与猫咪领养互动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
